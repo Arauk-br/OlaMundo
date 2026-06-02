@@ -1,5 +1,5 @@
 # Olá, Mundo!
 Primeiro repositório versionado; 
 
-Repositório criado atraves do curdo de git e github.
+Repositório criado atraves do curso em video de git e github.
 
