@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# Env files
+.env
+
+# Byte-compiled
+*.pyc
